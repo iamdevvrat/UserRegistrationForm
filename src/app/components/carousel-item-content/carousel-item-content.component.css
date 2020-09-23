@@ -1,0 +1,68 @@
+
+.carousel-data{
+    position: relative;
+    left: 20vw;
+    bottom: 5vw;
+    width:70vw;
+}
+
+
+.register{
+    background-color: #1997e6;
+    color: rgb(180, 166, 202);
+    border-style: none;
+    padding: 5px 20px;
+}
+
+.heading{
+    color: rgb(161, 160, 172) !important;
+    font-weight: bolder;
+}
+
+#fullTimeLabel{
+    color:  rgb(161, 160, 172) !important;
+    font-weight: bold;
+}
+
+#otherLabel{
+    color:  rgb(161, 160, 172) !important;
+    font-weight: bold;
+}
+
+.form-check{
+    padding: 0px;
+    
+}
+
+#myModal{
+    margin-top: 30px;
+}
+.modal-header{
+    background-color: teal;
+}
+.name{
+    margin-bottom: 20px;
+}
+
+.email{
+    margin-bottom: 20px;
+}
+
+.contactno{
+    margin-bottom: 20px;
+}
+
+.age{
+    margin-bottom: 20px;
+}
+
+.tags{
+    margin-bottom: 20px;
+}
+
+.popup-checkbox{
+    margin-left: 5px;
+}
+
+
+

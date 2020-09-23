@@ -1,0 +1,15 @@
+[
+    {
+        "id":"1",
+        "userFirstName":"Shalini",
+        "userLastName":"Cooper",
+        "userEmail":"something@gmail.com",
+        "userContactNo":"9372834745",
+        "userAge":"30",
+        "selectState":"Bihar",
+        "selectCountry":"India",
+        "address1":"Houe No-120,Biharsharif,Bihar,599901",
+        "address2":"Houe No-124,Kolkata,West Bengal,324324",
+        "tags":"Cricket, Hockey, Football"
+    }
+]

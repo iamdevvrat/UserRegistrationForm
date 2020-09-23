@@ -1,0 +1,28 @@
+.footer{
+    height: 300px;
+    padding: 100px;
+    background-color: black;
+}
+
+.sub-text1{
+    color: white;
+    margin-bottom: 10px;
+}
+
+.footer-bottom{
+    position: relative;
+    height: 100px;
+    top:120px;
+}
+
+.sub-row{
+    position: relative;
+    top:50px;
+    right: 180px;
+}
+
+@media only screen and (max-width: 765px) {
+    .sub-row {
+        right: 0px;
+    }
+  }

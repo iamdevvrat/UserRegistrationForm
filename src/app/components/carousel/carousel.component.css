@@ -1,0 +1,31 @@
+.overlay{
+    position: absolute;
+    z-index: 50;
+    top:20vw;
+}
+.carousel-item{
+    height: 500px;
+}
+
+.body{
+    margin: 40px;;
+    text-align: center;
+}
+
+@media only screen and (max-width: 765px) {
+    .carousel-item{
+        height: 550px;
+    }
+  }
+
+  @media only screen and (max-width: 732px) {
+    .d-block{
+        height: 800px;
+    }
+  }
+
+  @media only screen and (max-width: 732px) {
+    .d-block{
+        height: 800px;
+    }
+  }

@@ -1,0 +1,23 @@
+.navbar-wrapper{
+    position: static;
+    width: 100%;
+    top:0;
+    left:10vw;
+    z-index: 10000;
+}
+.navbar{
+    z-index: 10000;
+    position: fixed;
+    top: 0px;
+    width: 80%;
+    background-color: transparent !important;
+}
+
+.navbar-brand{
+    color: white !important;
+    
+}
+
+.nav-link{
+    color: white !important;
+}
